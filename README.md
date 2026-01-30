@@ -1,2 +1,2 @@
 # teLLMe
-My own LLM 
+My own personal LLM 
